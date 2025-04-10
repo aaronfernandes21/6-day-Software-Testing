@@ -1,0 +1,7 @@
+## 📘 Day-5: API Testing, CSS Selectors, and Web Automation
+
+On Day-5 of the Skill Lab, the focus shifted to understanding and working with **APIs** and **web automation tools**. The session began with an introduction to **REST architecture**, where students explored how APIs function in client-server communication. Practical activities included making API calls in local development environments and then transitioning to test **deployed APIs**, which involved managing elements like **authentication headers** and request parameters. This phase offered valuable hands-on experience in **debugging**, **validating API responses**, and understanding how front-end applications communicate with back-end services.
+
+In the latter part of the session, attention was directed towards **CSS object selection** and the basics of **Selenium** for web automation. Students learned how to accurately **select DOM elements using CSS selectors**, which is essential for both styling and scripting interactions. This knowledge was applied while working with **Selenium**, where basic scripts were written to automate browser tasks and simulate user actions. These exercises helped students understand the fundamentals of **UI testing**, **element interaction**, and **web automation workflows**.
+
+By the end of the session, participants had developed practical skills in **API testing**, **request debugging**, and **automating web applications**, which are key components of modern QA processes and full-stack development.
