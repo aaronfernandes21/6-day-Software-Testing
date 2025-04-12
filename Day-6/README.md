@@ -7,3 +7,5 @@ A significant part of the learning experience was shaped by the **guidance and d
 Later in the session, both mentors shared valuable knowledge about the **current tech market**, especially from the perspective of **newcomers entering the industry**. Discussions included how to prepare for roles in tech companies, what skills are in demand, and how to approach job opportunities with confidence.
 
 Overall, the day provided a strong blend of technical skills and career guidance, making it both a practical and motivational experience for all learners.
+
+(image.png)
